@@ -1,0 +1,9 @@
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\bin\Debug\CProcess+.exe.config
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\bin\Debug\CProcess+.exe
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\bin\Debug\CProcess+.pdb
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\obj\Debug\CProcess_.MainForm.resources
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\obj\Debug\CProcess_.AddEditForm.resources
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\obj\Debug\CProcess_.Properties.Resources.resources
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\obj\Debug\CProcess+.csproj.GenerateResource.Cache
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\obj\Debug\CProcess+.exe
+C:\Users\zacha46\documents\visual studio 2012\Projects\CProcess+\CProcess+\obj\Debug\CProcess+.pdb
